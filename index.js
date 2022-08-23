@@ -35,5 +35,5 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Doctor-Portal app listening on port ${port}`);
+  console.log(`Doctor-Portal app listening on port on ${port}`);
 });
